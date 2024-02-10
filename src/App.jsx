@@ -11,7 +11,11 @@ function App() {
     <>
       
  <h1 className='bg-green-400 rounded-xl text-white p-4'>Tailwind</h1>
- <Card />
+ <Card  username="Himanshu" />
+ <Card  username="Himanshu2" />
+
+ <Card  username="Himanshu3" />
+ <Card   />
 
     </>
 
